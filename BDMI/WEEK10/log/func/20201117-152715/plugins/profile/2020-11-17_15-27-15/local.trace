@@ -1,0 +1,73 @@
+
+gõb
+	/host:CPUõ¬w
+
+tf_Compute¬w
+´v´v˜:
+
+tf_Compute˜:°u
+
+tf_Compute°u"õ´vtf.constantH Ø¤ P ¢û*"Tõ´v__call__HàÛ§ÙP ¸©ËZ
+tracing_count1Z!
+tf_function_calltraced-nonXla"-õ´vTFE_Py_ExecuteCancelableHàÓà¶P º×óL";õ´v&EagerExecute: __inference___call___394H ÖÿÜPÀœ™ÉL"@õ´v+EagerLocalExecute: __inference___call___394H ÉªŞP€ÚÉÇL"3õ´vEagerCopyToDeviceAndAddCacheKeyHÀè¤àPà†ö"@õ´v-TensorHandle::GetResourceHandleInfo WaitReadyHÀòâæP ¬O"@õ´v-TensorHandle::GetResourceHandleInfo WaitReadyHÀÂééP Â"@õ´v-TensorHandle::GetResourceHandleInfo WaitReadyHÀê¬ëP€µ"@õ´v-TensorHandle::GetResourceHandleInfo WaitReadyHàêİìPÀš"1õ´vValidateInputTypeAndPlacementH ªä“ÑP ¾Ã"Fõ´vEagerKernelExecuteHàñÒ˜ÑPàÂ‚‹Z
+	step_name0Z
+group_id0"Kõ´vFunctionRunHà‘àÑP ³š÷Z
+id-2979534328588671112Z
+group_id0"*õ´vTFE_DeleteTensorHandleH€’œ¢İP€Ù€"*õ´vTFE_DeleteTensorHandleH «åœåP€Ä"õ´vtf.constantHÀøÅÃñP Ÿä2"*õ´vTFE_DeleteTensorHandleH üÙğñPà°Œ"-õ´vTFE_Py_FastPathExecute_CHàÌ¬§òPÀ›Â")õ´vTFE_DeleteTensorHandleH Ú˜ÁòPÀš")õ´vTFE_DeleteTensorHandleHàœèÂòP "-õ´vEagerExecute: LogicalAndHà³ûÇòP ‰¹›"2õ´vEagerLocalExecute: LogicalAndHÀúÖÈòPàšËš"0õ´vValidateInputTypeAndPlacementH€Û•öòP€ŸI"6õ´vEagerKernelExecuteH ¦®÷òPà¹ªêZ
+group_id0"aõ´v
+LogicalAndHà¦úòPÀÑ›ÛZ"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1",õ´vTFE_Py_FastPathExecute_CHà„¬÷P€¹¨"*õ´vEagerExecute: IdentityHÀ—ú¸÷Pà¬"/õ´vEagerLocalExecute: IdentityHÀ¶Ã¹÷PÀâÜ"0õ´vValidateInputTypeAndPlacementH€˜Ü»÷P€ê0"5õ´vEagerKernelExecuteH ùÃ¼÷PÀİ½Z
+group_id0"Yõ´vIdentityHà»“¾÷P€ÔaZ
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1",õ´vTFE_Py_FastPathExecute_CH€‰´Ê÷P ı™	"õ´vtf.constantHàåı“øP€µÍ")õ´vTFE_DeleteTensorHandleHà¢¨øPÀîm"õ´vtf.constantH€¯ºøP€Öé")õ´vTFE_DeleteTensorHandleHÀî°ÄøPÀÏ$"õ´vtf.constantH †çøP ù¾")õ´vTFE_DeleteTensorHandleHàƒ×ğøPÀ„=",õ´vTFE_Py_ExecuteCancelableH€ä¯„ùPÀ¾“M".õ´vEagerExecute: WriteSummaryHÀ‘ô‹ùP «ªD"3õ´vEagerLocalExecute: WriteSummaryHÀû¤ŒùP€´óC"0õ´vValidateInputTypeAndPlacementHÀù†²ùP€ê0"5õ´vEagerKernelExecuteH Àâ²ùP€øşZ
+group_id0"fõ´vWriteSummaryH ‡ï´ùP€¨øZ&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1"*õ´vTFE_DeleteTensorHandleHà•ŸÔùP€¾’")õ´vTFE_DeleteTensorHandleH€€ÖùPà‘C")õ´vTFE_DeleteTensorHandleH€ÔâÖùP "õ´vtf.constantH »âøùP Ó¸-"*õ´vTFE_DeleteTensorHandleH€µ¸ŸúP –€"*õ´vTFE_DeleteTensorHandleH ¬¤¸úP óÛ"*õ´vTFE_DeleteTensorHandleHÀüÛ¼úP Ÿú"*õ´vTFE_DeleteTensorHandleHàáÓÓúPà¬±")õ´vTFE_DeleteTensorHandleH ¿‘ØúPÀš"dõ˜:ExecutorState::ProcessH êÏêÙPàÛ›Z
+id-2979534328588671112Z
+iter_num0Z
+group_id0"sõ˜:ReadVariableOpH€²îÙPàîZ1
+	long_name$MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Tõ˜:MatMulH€äöÙPàü·Z
+	long_nameMatMul:MatMulZ
+group_id0Z
+is_eager0"eõ¬wExecutorState::ProcessHàÓÛ¶ÕPàÎÔ­Z
+id-2979534328588671112Z
+iter_num0Z
+group_id0"rõ¬wReadVariableOpHÀú·ÊÙPàÃÄZ0
+	long_name#add_1/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"dõ¬wExecutorState::ProcessHÀ€ĞëÙPà¾¥Z
+id-2979534328588671112Z
+iter_num0Z
+group_id0"uõ¬wReadVariableOpH ÃĞîÙP µÉZ3
+	long_name&MatMul_1/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"dõ°uExecutorState::ProcessHÀ…ïîÙP€ÁÈBZ
+id-2979534328588671112Z
+iter_num0Z
+group_id0"põ°uReadVariableOpHÀÈ óÙP Ô’Z.
+	long_name!add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Oõ°uAddV2Hà–……ÚPàÃÄZ
+	long_name	add:AddV2Z
+group_id0Z
+is_eager0"Wõ°uSigmoidHà¥âÚP êáZ
+	long_nameSigmoid:SigmoidZ
+group_id0Z
+is_eager0"Võ°uMatMulHà‹¸‘ÚP ¸•Z
+	long_nameMatMul_1:MatMulZ
+group_id0Z
+is_eager0"Qõ°uAddV2HÀğÍ¥ÚPà¹†Z
+	long_nameadd_1:AddV2Z
+group_id0Z
+is_eager0"Xõ°uSigmoidH€¦È¨ÚP€ê0Z
+	long_nameSigmoid_1:SigmoidZ
+group_id0Z
+is_eager0"Sõ°uExecutorDoneCallbackHÀ„Ê²ÚP ¼ğZ
+id-2979534328588671112Z
+group_id0
