@@ -1,0 +1,73 @@
+
+iõd
+	/host:CPUõ¤
+
+tf_Compute¤¨.
+
+tf_Compute¨.„ „ ˜
+
+tf_Compute˜"õ„ tf.constantHÀé‘¯PÀêÇ"Uõ„ __call__Hàáž©P ›Ò¼¸Z
+tracing_count1Z!
+tf_function_calltraced-nonXla".õ„ TFE_Py_ExecuteCancelableHà†›ÂƒPÀœ£Ò:"<õ„ &EagerExecute: __inference___call___550H€¾¡çƒP Œœ©:"Aõ„ +EagerLocalExecute: __inference___call___550H ¾ÒèƒP€×Ò§:"4õ„ EagerCopyToDeviceAndAddCacheKeyHÀ’åêƒP€ö"Aõ„ -TensorHandle::GetResourceHandleInfo WaitReadyHàýŠòƒPàÆ["Aõ„ -TensorHandle::GetResourceHandleInfo WaitReadyH€Û—õƒP Â"Aõ„ -TensorHandle::GetResourceHandleInfo WaitReadyHàªíöƒP€µ"Aõ„ -TensorHandle::GetResourceHandleInfo WaitReadyH€«žøƒPà§"2õ„ ValidateInputTypeAndPlacementHàÝõŸ¹P€’ô"Gõ„ EagerKernelExecuteHàÌÅ£¹Pàø‰ëZ
+	step_name0Z
+group_id0"Lõ„ FunctionRunH ÀÒ§¹PÀêÙZ
+id-2352002920974828710Z
+group_id0"+õ„ TFE_DeleteTensorHandleHÀïòÎP ë¥"+õ„ TFE_DeleteTensorHandleHÀ»žÔP ¤™" õ„ tf.constantH Î™¼ôPà¸áE"+õ„ TFE_DeleteTensorHandleHÀ—ÉûôPàš½"-õ„ TFE_Py_FastPathExecute_CH ùü¯õPà›ë7"*õ„ TFE_DeleteTensorHandleH ¤ŒÂõPÀš"*õ„ TFE_DeleteTensorHandleH€ôáÃõP "-õ„ EagerExecute: LogicalAndHà»ÊõPàÏŠ"2õ„ EagerLocalExecute: LogicalAndH ß‡ËõPà‘ø"1õ„ ValidateInputTypeAndPlacementHÀñ¬ÎõPàÆ["6õ„ EagerKernelExecuteH ŒêÏõPàúäZ
+group_id0"aõ„ 
+LogicalAndHÀËñ×õPà¤ûZ"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1"-õ„ TFE_Py_FastPathExecute_CH€ò­šöP€Š"+õ„ EagerExecute: IdentityH ÑÂ¨öP  ¾"0õ„ EagerLocalExecute: IdentityHÀÈù¨öP õ"1õ„ ValidateInputTypeAndPlacementH€ÀáªöP Â"6õ„ EagerKernelExecuteH ì°«öPÀ¨¥Z
+group_id0"[õ„ IdentityH€¼†­öPÀ£†Z
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1"-õ„ TFE_Py_FastPathExecute_CHÀ–­¹öPÀ¾ô" õ„ tf.constantH ‰Æ‚÷PÀðõ" õ„ tf.constantH€©×Ÿ÷P€ö"*õ„ TFE_DeleteTensorHandleHÀ™Í«÷P€ŸI" õ„ tf.constantH€ŠÃ·÷P€Öé"*õ„ TFE_DeleteTensorHandleHàÀ²Á÷P€ê0"-õ„ TFE_Py_ExecuteCancelableH Š©Ñ÷P •]"/õ„ EagerExecute: WriteSummaryHàèªÛ÷PÀÇ£"4õ„ EagerLocalExecute: WriteSummaryHàÒÛÛ÷P€Ãæ"1õ„ ValidateInputTypeAndPlacementHÀ×ÉÝ÷PàÜ*"6õ„ EagerKernelExecuteHà¸±Þ÷P€óßZ
+group_id0"gõ„ WriteSummaryHà´Öà÷P€îÀZ&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1"+õ„ TFE_DeleteTensorHandleHà¯‹¿øP Ç½"+õ„ TFE_DeleteTensorHandleH€Ô¤ÄøPà°Œ"*õ„ TFE_DeleteTensorHandleH ‰îÅøP€µ" õ„ tf.constantHà›ùâøPÀª­"+õ„ TFE_DeleteTensorHandleHÀïÞúøPÀ£†"+õ„ TFE_DeleteTensorHandleH ÞýüøPàÏÕ"+õ„ TFE_DeleteTensorHandleH€²ã”ùPÀ–±"*õ„ TFE_DeleteTensorHandleH€·‚˜ùP "dõ¨.ExecutorState::ProcessHÀú ‚¼PÀ™ýZ
+id-2352002920974828710Z
+iter_num0Z
+group_id0"sõ¨.ReadVariableOpH Üê…¼PÀ–±Z1
+	long_name$MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Tõ¨.MatMulHÀ–ÓŠ¼P œã	Z
+	long_nameMatMul:MatMulZ
+group_id0Z
+is_eager0"dõ˜ExecutorState::ProcessH ç‚á»P ³«'Z
+id-2352002920974828710Z
+iter_num0Z
+group_id0"rõ˜ReadVariableOpHÀú ‚¼PàŸÜZ0
+	long_name#add_1/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"dõ˜ExecutorState::ProcessH µë‰¼P ’¥Z
+id-2352002920974828710Z
+iter_num0Z
+group_id0"uõ˜ReadVariableOpHà¬Ó‹¼P –€Z3
+	long_name&MatMul_1/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Sõ˜ExecutorDoneCallbackHàÿÚ·¼P€É”Z
+id-2352002920974828710Z
+group_id0"dõ¤ExecutorState::ProcessH€Â‡¼P šÅ/Z
+id-2352002920974828710Z
+iter_num0Z
+group_id0"põ¤ReadVariableOpH€­„¼PÀø«Z.
+	long_name!add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Oõ¤AddV2Hà˜Œ—¼P€ù
+Z
+	long_name	add:AddV2Z
+group_id0Z
+is_eager0"Wõ¤SigmoidHÀÂ¦¢¼P€ÝÛZ
+	long_nameSigmoid:SigmoidZ
+group_id0Z
+is_eager0"Võ¤MatMulH ›ö¤¼P€ Z
+	long_nameMatMul_1:MatMulZ
+group_id0Z
+is_eager0"Qõ¤AddV2HàýÒ¬¼P€ÝÛZ
+	long_nameadd_1:AddV2Z
+group_id0Z
+is_eager0"Xõ¤SigmoidHÀÖ¢¯¼P€ŸIZ
+	long_nameSigmoid_1:SigmoidZ
+group_id0Z
+is_eager0
